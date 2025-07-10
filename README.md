@@ -40,6 +40,3 @@ _To Run the Application_
 - improve model performance.
 - Add more better styling to the user interface.
 
-### credit
-
-- A big thanks to [Anuj vyas](https://github.com/anujvyas/Diabetes-Prediction-Deployment) as I got the desinging idea of web app from his projects on github.
